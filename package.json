@@ -1,0 +1,26 @@
+{
+  "name": "thescrappack",
+  "version": "1.0.0",
+  "description": "Web Scrapping project that will populate and update a database of MMA events",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaueSabinoSRV17/TheScrapPack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaueSabinoSRV17/TheScrapPack/issues"
+  },
+  "homepage": "https://github.com/KaueSabinoSRV17/TheScrapPack#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
